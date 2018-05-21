@@ -1,0 +1,4 @@
+# /etc/acpi/events/ac_adapter
+
+event=ac_adapter
+action=/etc/acpi/ac_adapter.sh %e
